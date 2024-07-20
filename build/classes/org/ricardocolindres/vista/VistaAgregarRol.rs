@@ -1,0 +1,3 @@
+org.ricardocolindres.vista.VistaAgregarRol$1
+org.ricardocolindres.vista.VistaAgregarRol
+org.ricardocolindres.vista.PanelDeImagen
