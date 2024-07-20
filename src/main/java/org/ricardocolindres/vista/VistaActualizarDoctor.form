@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JInternalFrameFormInfo">
+  <Properties>
+    <Property name="closable" type="boolean" value="true"/>
+    <Property name="defaultCloseOperation" type="int" value="1"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="panelActualizarDoctor" min="-2" pref="286" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="panelActualizarDoctor" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="panelActualizarDoctor">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="lblNumeroTelefonoActualizar" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="281" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="lblApellidoDoctorActualizar" min="-2" max="-2" attributes="0"/>
+                                      <Component id="lblEspecialidadDoctorActualizar" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="312" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="separadorIdDoctorActualizar" alignment="0" min="-2" pref="256" max="-2" attributes="0"/>
+                              <Component id="lblEmailDoctorActualizar" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblDireccionDoctorActualizar" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblColegiadoDoctorActualizar" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="separadorActualizarDoctor" alignment="0" min="-2" pref="256" max="-2" attributes="0"/>
+                              <Component id="idDoctorActualizarBuscar" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="botonBuscarDoctorActualizar" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="txtIdDoctorActualizarBuscar" min="-2" pref="127" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="lblIdDoctorActualizar" min="-2" max="-2" attributes="0"/>
+                                      <Component id="lblNombreDoctorActualizar" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="txtidDoctorActualizar" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <Component id="txtNombreDoctorActualizar" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <Component id="txtApellidoDoctorActualizar" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <Component id="txtNumTelefonoDoctorActualizar" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <Component id="txtEspecialidadActualizar" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <Component id="txtEmailDoctorActualizar" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <Component id="txtDireccionDoctorActualizar" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <Component id="txtColegiadoDoctorActualizar" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="botonActualizarDoctor" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="155" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="txtidDoctorActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblIdDoctorActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="txtNombreDoctorActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblNombreDoctorActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="txtApellidoDoctorActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblApellidoDoctorActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblNumeroTelefonoActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtNumTelefonoDoctorActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblEspecialidadDoctorActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtEspecialidadActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblEmailDoctorActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtEmailDoctorActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblDireccionDoctorActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtDireccionDoctorActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblColegiadoDoctorActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtColegiadoDoctorActualizar" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="separadorActualizarDoctor" min="-2" pref="10" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                  <Component id="botonActualizarDoctor" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="separadorIdDoctorActualizar" min="-2" pref="10" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                  <Component id="idDoctorActualizarBuscar" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                          <Component id="botonBuscarDoctorActualizar" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="txtIdDoctorActualizarBuscar" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="23" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="lblIdDoctorActualizar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Id Doctor"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblNombreDoctorActualizar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nombre Doctor"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblApellidoDoctorActualizar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Apellido Doctor"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblNumeroTelefonoActualizar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Numero de Telefono"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblEspecialidadDoctorActualizar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Especialidad"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblEmailDoctorActualizar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Email"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblDireccionDoctorActualizar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Direccion"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblColegiadoDoctorActualizar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Colegiado"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtidDoctorActualizar">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtNombreDoctorActualizar">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtApellidoDoctorActualizar">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtNumTelefonoDoctorActualizar">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtEspecialidadActualizar">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtEmailDoctorActualizar">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtDireccionDoctorActualizar">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtColegiadoDoctorActualizar">
+        </Component>
+        <Component class="javax.swing.JSeparator" name="separadorActualizarDoctor">
+        </Component>
+        <Component class="javax.swing.JSeparator" name="separadorIdDoctorActualizar">
+        </Component>
+        <Component class="javax.swing.JLabel" name="idDoctorActualizarBuscar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Id del Doctor a actualizar"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtIdDoctorActualizarBuscar">
+        </Component>
+        <Component class="javax.swing.JButton" name="botonBuscarDoctorActualizar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Buscar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botonBuscarDoctorActualizarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botonActualizarDoctor">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Actualizar Datos"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botonActualizarDoctorActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JInternalFrameFormInfo">
+  <Properties>
+    <Property name="closable" type="boolean" value="true"/>
+    <Property name="defaultCloseOperation" type="int" value="1"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="10" max="32767" attributes="0"/>
+              <Component id="panelGuardarCliente" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="panelGuardarCliente" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="panelGuardarCliente">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblIdCliente" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblNombreCliente" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblApellidoCliente" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblNumTelefonoCliente" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblEmailCliente" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblDuenioCliente" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="txtDuenioClienteGuardar" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="txtEmailClienteGuardar" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="txtNumeroClienteGuardar" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="txtApellidoClienteGuardar" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="txtNombreClienteGuardar" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="txtIdClienteGuardar" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Component id="botonGuardarCliente" min="-2" max="-2" attributes="0"/>
+                      <Component id="separadorClienteGuardar" min="-2" pref="250" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblIdCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtIdClienteGuardar" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblNombreCliente" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtNombreClienteGuardar" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblApellidoCliente" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtApellidoClienteGuardar" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblNumTelefonoCliente" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtNumeroClienteGuardar" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblEmailCliente" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtEmailClienteGuardar" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblDuenioCliente" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtDuenioClienteGuardar" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="separadorClienteGuardar" min="-2" pref="10" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="botonGuardarCliente" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace pref="10" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="lblIdCliente">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Id Cliente"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblNombreCliente">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nombre Cliente"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblApellidoCliente">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Apellido Cliente"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblNumTelefonoCliente">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Numero Telefono Cliente"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblEmailCliente">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Email Cliente"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblDuenioCliente">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cliente duenio de "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtIdClienteGuardar">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtNombreClienteGuardar">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtApellidoClienteGuardar">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtNumeroClienteGuardar">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtEmailClienteGuardar">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtDuenioClienteGuardar">
+        </Component>
+        <Component class="javax.swing.JSeparator" name="separadorClienteGuardar">
+        </Component>
+        <Component class="javax.swing.JButton" name="botonGuardarCliente">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Guardar Cliente"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botonGuardarClienteActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

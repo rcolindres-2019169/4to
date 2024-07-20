@@ -1,0 +1,74 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Bimestre3 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Bimestre3 1.0-SNAPSHOT API'
+org.ricardocolindres.controlador
+org.ricardocolindres.modelo
+org.ricardocolindres.sistema
+org.ricardocolindres.vista
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/controlador/ControlCita.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/controlador/ControlCliente.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/controlador/ControlDoctor.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/controlador/ControlMascota.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/modelo/Cita.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/modelo/Cliente.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/modelo/Doctor.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/modelo/Mascota.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/sistema/Bimestre3.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VentanaPrincipal.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaActualizarCita.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaActualizarCliente.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaActualizarDoctor.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaActualizarMascota.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaAgregarCita.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaAgregarCliente.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaAgregarDoctor.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaAgregarMascota.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaEliminarCita.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaEliminarCliente.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaEliminarDoctor.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaEliminarMascota.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaLogin.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaVerCitas.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaVerClientes.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaVerDoctores.java'
+'C:/Users/colin/OneDrive/Documentos/Documentos/KINAL 2022/III BIMESTRE/IN4AM - Ciclo Escolar 2022/BIMESTRE 3 - IN4AM/Actividades diarias/Proyecto Bimestral/Proyecto Bimestral/Bimestre3/src/main/java/org/ricardocolindres/vista/VistaVerMascotas.java'
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\src\main\java = 1658355057648
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\allclasses-frame.html = 1658543386289
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\allclasses-noframe.html = 1658543386295
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\constant-values.html = 1658543385844
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\deprecated-list.html = 1658543386279
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\help-doc.html = 1658543386313
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\index-all.html = 1658543386271
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\index.html = 1658543386295
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\javadoc.bat = 1658543282355
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\overview-frame.html = 1658543385774
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\overview-summary.html = 1658543386304
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\overview-tree.html = 1658543386253
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\package-list = 1658543385774
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\script.js = 1658543386313
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\serialized-form.html = 1658543385864
+C:\Users\colin\OneDrive\Documentos\Documentos\KINAL 2022\III BIMESTRE\IN4AM - Ciclo Escolar 2022\BIMESTRE 3 - IN4AM\Actividades diarias\Proyecto Bimestral\Proyecto Bimestral\Bimestre3\target\site\apidocs\stylesheet.css = 1658542630840
